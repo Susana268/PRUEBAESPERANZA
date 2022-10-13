@@ -1,0 +1,7 @@
+git pull
+
+git clone -- ip ---
+git status
+git add .
+git commit - m  "fecha hora nombre cambio"
+git push

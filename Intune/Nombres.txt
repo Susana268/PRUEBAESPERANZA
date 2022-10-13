@@ -1,0 +1,22 @@
+Estandar Github commit
+git commit -m "29/09/2022-18:39-Nombre- Comentario resumido"
+
+VARIABLES 
+Ejemplos: 
+Botón usuario:  btnUsuario
+Botón Ingresar Marca: btnIngresarM
+
+NOMBRES DE CLASES
+Ejemplos: 
+Ventana Login: FrmLogin
+Ventana Productos: FrmProductos
+Marca dao: MarcaDAO
+
+OBJETOS
+FrmLogin: FrmLogin vLog = new FrmLogin();
+ProductoDAO: ProductoDAO pDao = new ProductoDAO();
+
+
+ANDROID 
+
+
